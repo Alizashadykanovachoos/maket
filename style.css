@@ -108,11 +108,11 @@ header {
 .essentials {
   text-align: center;
   padding-top: 25px;
-  font-family: ;
+  font-family: sans-serif;
 }
-.tranparent {
+/* .tranparent {
 
-}
+} */
 .photo {
   display: flex;
   justify-content: space-around;
