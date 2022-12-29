@@ -154,3 +154,7 @@ nav img {
   display: flex;
   justify-content: space-around;
 }
+.main-text{
+  font-size: 45px;
+  text-align: center;
+}
