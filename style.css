@@ -32,6 +32,11 @@ header {
   background-size: contain;
   
 }
+.nav-img{
+  margin-right: 23px;
+  
+  
+}
 .main-header {
  display: block;
  justify-content: flex-end;
