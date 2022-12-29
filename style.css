@@ -50,12 +50,13 @@ nav img {
   display: block;
   justify-content:center;
   text-align: right;
-  padding: 64px;
+  
 }
 .header-text {
   height: 100%;
   justify-content: flex-end;
   align-items: flex-end;
+
 }
 .main-header p{
   text-transform: uppercase;
