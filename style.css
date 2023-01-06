@@ -3,11 +3,12 @@
 }
 body {
   margin: 0 20px auto;
-  
+
   color: #56593d;
 }
 .container { 
-  max-width: 1800px;
+  max-width: 1300px;
+  padding: 0 15px;
   margin: 0 auto;
 }
 .main-nav {
@@ -27,7 +28,7 @@ nav ul {
 nav ul li a {
   text-decoration: none;
   padding: 10px 15px; 
-  font-size: 16px;
+  font-size: 16.5px;
   color: #56593d;
   line-height: 25.2px;
   font-weight: 400;
