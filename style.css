@@ -7,13 +7,6 @@ body {
   color: #56593d;
 }
 
-
-.marginauto {
-    margin: 10px auto 20px;
-    display: block;
-}
-
-
 .container {
   max-width: 1328px;
   padding: 0 15px;
@@ -43,6 +36,11 @@ nav ul {
   width: 200px;
    
 }
+.marginauto {
+  margin: 10px auto 20px;
+  display: block;
+}
+
 
 nav ul li a {
   text-decoration: none;
@@ -96,7 +94,7 @@ nav img {
   font-size: 45px;
   line-height: 60.45px;
 }
- .main-header button{
+ .main-header button{ 
   text-transform: uppercase;
   background-color: #56593d;
   color: white;
@@ -186,44 +184,16 @@ nav img {
   font-size: 45px;
   text-align: center;
 }
-.cards-holder{
-  display: flex;
-  justify-content: center ;
+.cards{
   background-color: #FFFFEF;
-} 
+  
+}
 .card{
   display: flex;
   justify-content: center;
+}
+
+
+
+
   
-}
-.card-image{
-  display: flex;
-  justify-content: center;
-}
-.card-title{
-  display: flex;
-  justify-content: center;
-}
-.card-desc{
-  display: flex;
-  justify-content: center;
-}
-.card-button{
-  display: flex;
-  justify-content: center;
-    background-color: #56593d;
-    color: white;
-    
-    
-   
-  
-
-
-}
-
-
-
- 
-
- 
- 
