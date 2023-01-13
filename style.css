@@ -207,6 +207,12 @@ nav img {
   background-color:#717353;
   color: #FFFFEF;   
  }
+    .Explore{
+      display: flex;
+      justify-content: center;
+    }   
+    
+    
    
  
  
