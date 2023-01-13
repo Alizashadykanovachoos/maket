@@ -195,14 +195,24 @@ nav img {
 .flexbox{
   background-color: #FFFFEF;
 }
+.flexbox{
+  padding-bottom: 100px;
+}
 .flexbox-title{
   display: flex;
   justify-content: center;
-} 
+}
 
-
-    
-
+.flexbox{
+  padding-bottom: 100p
+}
+ .footer{
+  display: flex;
+  justify-content: center;
+ }
+ 
+ 
+ 
 
  
  
