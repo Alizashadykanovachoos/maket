@@ -212,7 +212,10 @@ nav img {
       justify-content: center;
     }   
     
-    
+    .help{
+      display: flex;
+      
+    }
    
  
  
