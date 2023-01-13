@@ -214,7 +214,11 @@ nav img {
     
     .help{
       display: flex;
-      
+      justify-content: right;
+    }
+    .help-title{
+      display: flex;
+      justify-content: right;
     }
    
  
