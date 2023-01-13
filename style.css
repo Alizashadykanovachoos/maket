@@ -207,19 +207,11 @@ nav img {
   background-color:#717353;
   color: #FFFFEF;   
  }
-    .Explore{
+    .kinn{
       display: flex;
       justify-content: center;
-    }   
-    
-    .help{
-      display: flex;
-      justify-content: right;
     }
-    .help-title{
-      display: flex;
-      justify-content: right;
-    }
+ 
    
  
  
